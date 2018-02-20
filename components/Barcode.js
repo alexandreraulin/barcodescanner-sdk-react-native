@@ -38,6 +38,5 @@ Barcode.Symbology = {
   TWO_DIGIT_ADD_ON: "two-digit-add-on",
   KIX: "kix",
   RM4SCC: "rm4scc",
-  DOTCODE: "dotcode",
-  MICROQR: "microQR"
+  DOTCODE: "dotcode"
 }
